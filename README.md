@@ -4,4 +4,4 @@
 ## Linux
 1. [git的命令](https://github.com/Nidhoggz/Reading-Notes/blob/master/Linux/git%E5%91%BD%E4%BB%A4.md)
 ## To Do List
-[todo-list](https://github.com/Nidhoggz/Reading-Notes/blob/master/todo-list.md)
+- [todo-list](https://github.com/Nidhoggz/Reading-Notes/blob/master/todo-list.md)
