@@ -41,3 +41,8 @@
 - [ ] 中间件(middleware)
 - [ ] 序列化与反序列化
 - [ ] 热加载
+- [ ] 渐进式增强
+- [ ] SQL注入及预防方法
+- [ ] 跨站点执行(cross site scripting)
+- [ ] rebots.txt
+- [ ] 编码与解码
