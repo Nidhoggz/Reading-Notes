@@ -46,3 +46,4 @@
 - [ ] 跨站点执行(cross site scripting)
 - [ ] rebots.txt
 - [ ] 编码与解码
+- [ ] 拆包
